@@ -93,8 +93,8 @@ section ul li:hover{
     border: 1px solid #443e54;
 }
 .social-list img{
-    width: 90px;
-    height: 90px;
+    width: 60px;
+    height: 60px;
 }
 main section{
     animation: fromBottom .7s backwards;
