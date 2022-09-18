@@ -84,7 +84,7 @@ section ul li:hover{
     transform: scale(1.1);
 }
 .game-list img{
-    width: 90px;
+    width: 130px;
     border-radius: 8px;
 }
 .channel-list img{
