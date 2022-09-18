@@ -1,6 +1,6 @@
 # NLW eSposrts - Trilha Explorer
 
-![preview](./github/preview.png)
+![preview](./github/nlw-preview.png)
 
 > Trilha Explorer
 
