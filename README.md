@@ -1,5 +1,7 @@
 # NLW eSposrts - Trilha Explorer
 
+![preview](./github/preview.png)
+
 > Trilha Explorer
 
 Projeto construído no evento evento Next Level Week da RocketSeat
